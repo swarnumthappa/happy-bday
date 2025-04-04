@@ -496,7 +496,7 @@ body {
     height: 100%;
     background-color: var(--color-bg-letter);
     border-radius: 10px;
-    padding-top: 15px;
+    padding-top: 10px;
 }
 .letter__border .letter .title__letter{
     text-align: center;
@@ -594,7 +594,7 @@ body {
     margin-top: 60px;
     padding: 20px 15px 10px 15px;
     font-family: 'Dancing Script', cursive;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 .content__letter .right #mewmew{
     position: absolute;
